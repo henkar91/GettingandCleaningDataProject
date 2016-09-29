@@ -26,5 +26,6 @@ Change the parameter of the setwd function call to the working directory/folder 
 Run the R script run_analysis.r. It calls the R Markdown file, run_analysis.Rmd, which contains the bulk of the code.
 Outputs produced
 
-Tidy dataset file DatasetHumanActivityRecognitionUsingSmartphones.txt (tab-delimited text)
+Tidy dataset file tidydata.txt 
 Codebook file codebook.md (Markdown)
+This data set can be again opened in R using the commented code (with ‘read.table’) at the end of the script.
